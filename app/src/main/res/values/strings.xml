@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comics</string>
+    <string name="zero">0</string>
+    <string name="ops_error">Ocorreu algum erro</string>
+</resources>
