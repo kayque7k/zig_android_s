@@ -1,6 +1,6 @@
 # Desafio Tecnico Android
 
-## Este teste tem como objetivo solucionar problemas no codigo do projetoque esta gerando bugs na aplicacao
+## Este teste tem como objetivo solucionar problemas no codigo do projeto que esta gerando bugs na aplicacao
 
 ### Problemas encontrados que necessitam de correcao
 > - A Tela inicial nao esta preenchendo os items na lista
